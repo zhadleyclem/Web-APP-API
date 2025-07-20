@@ -1,6 +1,6 @@
 // TMDB API configuration
 const API_CONFIG = {
-    API_KEY: 'a07e22bc18f5cb106bfe4cc1f83ad8ed', // Public demo key
+    API_KEY: '...',  hidden for github
     BASE_URL: 'https://api.themoviedb.org/3',
     IMAGE_BASE_URL: 'https://image.tmdb.org/t/p/w500',
     PLACEHOLDER_IMAGE: 'https://via.placeholder.com/60x90/cccccc/666666?text=No+Image',
